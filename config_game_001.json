@@ -3,19 +3,19 @@
 	"cip": "https://portal.muabangoquy.com/check.php",
 	"AssetBundleUrl": "https://res.muabangoquy.com",
 	"Version": {
-		"BACAY":"95bfc",
-		"GameCenter":"58186",
-		"GameFireFish":"1141c",
-		"LIENG":"aef95",
-		"LOTTERY":"4e0b4",
-		"MAUBINH":"2dc11",
-		"POKER":"5d729",
-		"SAM":"ada27",
-		"SLOT":"77261",
-		"SLOT2":"b0b27",
-		"SLOT3":"42a6f",
-		"SLOT4":"f0cf1",
-		"SLOT5":"86c3f",
-		"TLMN":"03df3"
+		"BACAY": "95bfc",
+		"GameCenter": "58186",
+		"GameFireFish": "1141c",
+		"LIENG": "aef95",
+		"LOTTERY": "4e0b4",
+		"MAUBINH": "2dc11",
+		"POKER": "5d729",
+		"SAM": "ada27",
+		"SLOT": "77261",
+		"SLOT2": "b0b27",
+		"SLOT3": "42a6f",
+		"SLOT4": "f0cf1",
+		"SLOT5": "86c3f",
+		"TLMN": "03df3"
 		}
 }
