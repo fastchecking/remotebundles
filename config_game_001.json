@@ -3,7 +3,7 @@
 	"cip": "https://portal.muabangoquy.com/check.php",
 	"AssetBundleUrl": "https://res.muabangoquy.com",
 	"AssetBundlePreviewUrl": "https://res-beta.muabangoquy.com",
-	"sfsHost": "sff.muabangoquy.com",
+	"sfsHost": "sfx.muabangoquy.com",
 	"apiHost": "https://api.muabangoquy.com/v1/",
 	"apiHostPreview": "https://api.testdevgdt.top/v1/",
 	"sfsHostPreview": "sfs.testdevgdt.top",
