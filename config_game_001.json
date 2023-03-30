@@ -4,7 +4,7 @@
 	"AssetBundleUrl": "https://res.muabangoquy.com",
 	"AssetBundlePreviewUrl": "https://res-beta.muabangoquy.com",
 	"sfsHost": "sfx.muabangoquy.com",
-	"apiHost": "https://api.muabangoquy.com/v1/",
+	"apiHost": "https://apx.muabangoquy.com/v1/",
 	"apiHostPreview": "https://api.testdevgdt.top/v1/",
 	"sfsHostPreview": "sfs.testdevgdt.top",
 	"Version": {"BACAY":"893ab","BOM":"89428","CLASSIC1":"52d52","DIAMOND":"9b1b6","DIAMOND2":"d8ef6","DRAGON":"6a0b1","DRAGON1":"05e62","DRAGON_TIGER":"b737d","Event":"faa3d","GameCenter":"6e409","HILO":"a963e","HOO_HEY_HOW":"aa760","LIENG":"6ea43","Login":"7561c","LOTTERY":"38d58","LUCKY_WHEEL":"68d1a","MAUBINH":"dc1ec","MINI3CAY":"16e28","MINIGAME_XOCDIA":"734aa","MINIPOKER":"277ba","MODERN_SLOT":"b60e8","POKER":"11986","recharge":"e8458","SAM":"183ff","SHOOTING_FISH":"dd08d","slot-1":"020c8","TAIXIU":"09a11","tin68":"add69","TLMN":"01c48","Tutorials":"d976f","vp_event":"37eca","WILD":"89394"},
