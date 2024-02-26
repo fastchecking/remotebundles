@@ -1,0 +1,14 @@
+{
+	"active":true,
+	"cip": "https://portal.testdevtitan.top/check.php",
+	"AssetBundleUrl": "https://res.testdevtitan.top",
+	"AssetBundlePreviewUrl": "https://res-beta.testdevtitan.top",
+	"apiHost": "https://api.testdevtitan.top/v1/",
+	"sfsHost": "sfx.testdevtitan.top",
+	"apiHostProdMobile": "https://api.testdevtitan.top/v1/",
+	"sfsHostProdMobile": "sfsm.testdevtitan.top",
+	"apiHostPreview": "https://api.testdevtitan.top/v1/",
+	"sfsHostPreview": "sfs.testdevtitan.top",
+	"Version": {"BACAY":"db263","FLI":"28985","GameCenter":"2d938","GameFireFish":"5dc39","LIENG":"4e73c","LOTTERY":"15d22","MAUBINH":"d0901","POKER":"1133a","portal":"084c4","SAM":"b2ccd","SICBO":"fc11f","SL0":"85b26","SL1":"602de","SLOT":"358c9","SLOT2":"a4d98","SLOT3":"cf46c","SLOT4":"ee513","SLOT5":"b4c9a","SX0":"381bc","SX1":"c26c9","SX2":"8705d","TLMN":"6134e","XOCDIA":"36e24"},
+	"Version_Preview": {"BACAY":"db263","FLI":"28985","GameCenter":"2d938","GameFireFish":"5dc39","LIENG":"4e73c","LOTTERY":"15d22","MAUBINH":"d0901","POKER":"1133a","portal":"084c4","SAM":"b2ccd","SICBO":"fc11f","SL0":"85b26","SL1":"602de","SLOT":"358c9","SLOT2":"a4d98","SLOT3":"cf46c","SLOT4":"ee513","SLOT5":"b4c9a","SX0":"381bc","SX1":"c26c9","SX2":"8705d","TLMN":"6134e","XOCDIA":"36e24"},
+}
