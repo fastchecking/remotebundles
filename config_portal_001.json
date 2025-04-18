@@ -1,5 +1,3 @@
 {
-	"chk": "https://portal.renkiem.top/check.php",
-	"check": "https://portal.renkiem.top/check.php",
-	"get_jump": "https://portal.renkiem.top/get_jump.php",
+	"chk": "https://portal.renkiem.top/chk.php",
 }
